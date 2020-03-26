@@ -4,3 +4,5 @@ Projeto de informatização da gestão de entrada, saída e permanência de veí
 Estudo de caso das aulas de Engenharia de Software
  
 # EDIÇÂO PARA TESTAR AS BRANCHS
+
+# Leia-ME
